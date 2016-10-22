@@ -1,0 +1,2 @@
+Los 2 Ejercicios de Productores/Consumidores con monitores no me ha dado tiempo a enrtegarlos en el plazo. He priorizado la sopa de letras, la cual he conseguido hacerla funcionar pero no cumplir todos los requisitos que pedías en el enunciado (guardar, recuperar). Lo siento de veras.
+Ismael Delgado.
